@@ -1,1 +1,0 @@
-This is readme text file for git & jenkins Poll SCM configuration as a part of CI.
